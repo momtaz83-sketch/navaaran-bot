@@ -7,7 +7,7 @@ import asyncio
 
 # توکن ربات - جایگزین کنید
 BOT_TOKEN = "7925234053:AAGsQvx5eyVRQXf0SkhYWODOHo0m_bBbgr4"
-"
+
 
 # ایجاد دیتابیس
 def init_db():
@@ -243,3 +243,4 @@ def main():
 if __name__ == '__main__':
 
     main()
+
