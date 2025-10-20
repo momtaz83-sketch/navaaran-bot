@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import asyncio
 
 # توکن ربات - جایگزین کنید
-BOT_TOKEN = "7925234053:AAGsQvx5eyVRQXf0SkhYWODOHo0m_bBbgr4
+BOT_TOKEN = "7925234053:AAGsQvx5eyVRQXf0SkhYWODOHo0m_bBbgr4"
 "
 
 # ایجاد دیتابیس
@@ -241,4 +241,5 @@ def main():
     application.run_polling()
 
 if __name__ == '__main__':
+
     main()
